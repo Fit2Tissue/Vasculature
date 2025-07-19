@@ -2,3 +2,4 @@ Filename,TissueCategory,ComputedShearModulus,C01,RMSE,PublicationLink,Experiment
 Thisisatestagain,Thisisatestagain,Vasculature,,0.2925,0.1359,Sample1_0.2_radial.csv
 Thisisatestagain,Thisisatestagain,Vasculature,,2.3998,0.7618,Sample3_0.2_circumferential.csv
 Thisisatestagain,Thisisatestagain,Vasculature,,2.8938,0.7677,Sample2_0.2_circumferential.csv
+Thisisatestagain,Thisisatestagain,Vasculature,,2.8197,0.5102,Sample1_0.2_circumferential.csv
