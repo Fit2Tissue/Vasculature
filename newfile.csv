@@ -2,3 +2,4 @@ model,note,note2,category,model_name,model_results,rmse
 ,12.9459,42.4619,0.1626,Sample1_0.5_circumferential.csv,Thisisjustatest_25,Thisisjustatest_25,Vasculature
 ,3.0638,0.8517,Sample1_0.5_circumferential.csv,thisisasecondtest,thisisasecondtest,Vasculature
 ,0.2293,0.1245,Sample3_0.2_radial.csv,thisisasecondtest,thisisasecondtest,Vasculature
+,12.9459,42.4619,0.1626,Sample1_0.5_circumferential.csv,thisisasecondtest,thisisasecondtest,Vasculature
