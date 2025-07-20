@@ -1,3 +1,4 @@
 Filename,TissueCategory,ComputedShearModulus,C01,C10,RMSE,PublicationLink,ExperimentalDetails,Numberofdatapoints,InitialGuesses,Optimization,Algorithm
 Sample3_0.5_radial.csv,Vasculature,0.3163,1.1954,0.0119,Thisisatestupload,Thisisatestupload,"[1, 1]",minimize
 Sample2_0.5_radial.csv,Vasculature,0.3758,1.3432,0.0206,Thisisatestupload,Thisisatestupload,"[1, 1]",minimize
+Sample1_0.5_radial.csv,Vasculature,0.3943,1.1764,0.0469,Thisisatestupload,Thisisatestupload,"[1, 1]",minimize
