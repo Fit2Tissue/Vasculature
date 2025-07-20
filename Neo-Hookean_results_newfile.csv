@@ -16,3 +16,4 @@ Thisisatest11,Thisisatest11,Vasculature,0.2691,0.1967,Sample2_0.2_radial.csv,[1]
 Thisisatest11,Thisisatest11,Vasculature,0.2925,0.1359,Sample1_0.2_radial.csv,[1],"[None, None]",least_squares
 Thisisatest12,Thisisatest12,Vasculature,0.2691,0.1967,Sample2_0.2_radial.csv,[1],"[None, None]",minimize
 Thisisatest12,Thisisatest12,Vasculature,0.2925,0.1359,Sample1_0.2_radial.csv,[1],"[None, None]",minimize
+thisisatest1311,thisisatest1311,Vasculature,0.81,0.2267,Subject112_Sample4_YoungDorsal_Equibiaxial.csv,[1],least_squares
