@@ -1,18 +1,1 @@
 Filename,TissueCategory,ComputedShearModulus,Mu1,Alpha1,Mu2,Alpha2,RMSE,PublicationLink,ExperimentalDetails,Numberofdatapoints,InitialGuesses,Optimization,Algorithm
-Thisisatestagain,Thisisatestagain,Vasculature,,35.9149,0.5281,-113.3352,0.1674,0.0352,Sample1_0.2_radial.csv
-Thisisatestagain,Thisisatestagain,Vasculature,,1.6722,22.1554,-1.6214,22.254,0.1168,Sample3_0.2_circumferential.csv
-Thisisatestagain,Thisisatestagain,Vasculature,,0.0482,11.6013,0.1538,11.6008,0.2442,Sample2_0.2_circumferential.csv
-Thisisatestagain,Thisisatestagain,Vasculature,,0.1063,9.284,0.218,9.2842,0.1381,Sample1_0.2_circumferential.csv
-Thisisatest5_1,Thisisatest5_1,Vasculature,0.5222,2.5696,-531.3089,0.0025,0.0198,Sample3_0.2_radial.csv
-Thisisatest5_1,Thisisatest5_1,Vasculature,-1.0435,2.0802,0.6518,3.3301,0.0457,Sample2_0.2_radial.csv
-Thisisatest5_1,Thisisatest5_1,Vasculature,35.9149,0.5281,-113.3352,0.1674,0.0352,Sample1_0.2_radial.csv
-Thisisatestlinkwithadditionalparameters2,Thisisatestlinkwithadditionalparameters2,Vasculature,0.5222,2.5696,-531.3089,0.0025,0.0198,Sample3_0.2_radial.csv,"[1, 1, 1, 1]"
-Thisisatestlinkwithadditionalparameters2,Thisisatestlinkwithadditionalparameters2,Vasculature,-1.0435,2.0802,0.6518,3.3301,0.0457,Sample2_0.2_radial.csv,"[1, 1, 1, 1]"
-Thisisatest6,Thisisatest6,Vasculature,0.0118,7.1943,0.0118,7.1943,0.0654,Sample2_0.2_radial.csv,"[1, 1, 1, 1]",
-Thisisatest6,Thisisatest6,Vasculature,0.0278,5.3609,0.0278,5.3609,0.0566,Sample1_0.2_radial.csv,"[1, 1, 1, 1]",
-Thisisatest6,Thisisatest6,Vasculature,0.0882,10.7257,0.0882,10.7257,0.2847,Sample3_0.2_circumferential.csv,"[1, 1, 1, 1]",
-Thisisatestuplaod7,Thisisatestuplaod7,Musculoskletal,0.0914,12.8421,0.0914,12.8421,0.3518,Sample1_0.5_circumferential.csv,"[1, 1, 1, 1]",
-Thisisatestuplaod7,Thisisatestuplaod7,Musculoskletal,0.0151,6.1783,0.0151,6.1783,0.0277,Sample3_0.2_radial.csv,"[1, 1, 1, 1]",
-Thisisatestupload8,Thisisatestupload8,Vasculature,0.0278,5.3609,0.0278,5.3609,0.0566,Sample1_0.2_radial.csv,"[1, 1, 1, 1]",,minimize
-Thisisatestupload8,Thisisatestupload8,Vasculature,0.0882,10.7257,0.0882,10.7257,0.2847,Sample3_0.2_circumferential.csv,"[1, 1, 1, 1]",,minimize
-Thisisatestupload8,Thisisatestupload8,Vasculature,0.101,11.6009,0.101,11.6009,0.2442,Sample2_0.2_circumferential.csv,"[1, 1, 1, 1]",,minimize
