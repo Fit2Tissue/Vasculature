@@ -3,3 +3,4 @@ Sample3_0.5_radial.csv,Vasculature,0.0066,7.0408,0.0066,7.0408,0.0187,Thisisates
 Sample2_0.5_radial.csv,Vasculature,0.0098,6.6614,0.0098,6.6614,0.0133,Thisisatestupload,Thisisatestupload,"[1, 1, 1, 1]",minimize
 Sample1_0.5_radial.csv,Vasculature,0.0281,4.6816,0.0281,4.6816,0.0646,Thisisatestupload,Thisisatestupload,"[1, 1, 1, 1]",minimize
 Sample3_0.5_circumferential.csv,Vasculature,0.091,12.9008,0.091,12.9008,0.316,Thisisatestupload,Thisisatestupload,"[1, 1, 1, 1]",minimize
+Sample2_0.5_circumferential.csv,Vasculature,0.1089,12.2753,0.1089,12.2753,0.1555,Thisisatestupload,Thisisatestupload,"[1, 1, 1, 1]",minimize
