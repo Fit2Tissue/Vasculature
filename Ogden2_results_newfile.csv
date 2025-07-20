@@ -1,13 +1,1 @@
 Filename,TissueCategory,ComputedShearModulus,Mu1,Alpha1,Mu2,Alpha2,RMSE,PublicationLink,ExperimentalDetails,Numberofdatapoints,InitialGuesses,Optimization,Algorithm
-Sample3_0.5_radial.csv,Vasculature,0.0066,7.0408,0.0066,7.0408,0.0187,Thisisatestupload,Thisisatestupload,"[1, 1, 1, 1]",minimize
-Sample2_0.5_radial.csv,Vasculature,0.0098,6.6614,0.0098,6.6614,0.0133,Thisisatestupload,Thisisatestupload,"[1, 1, 1, 1]",minimize
-Sample1_0.5_radial.csv,Vasculature,0.0281,4.6816,0.0281,4.6816,0.0646,Thisisatestupload,Thisisatestupload,"[1, 1, 1, 1]",minimize
-Sample3_0.5_circumferential.csv,Vasculature,0.091,12.9008,0.091,12.9008,0.316,Thisisatestupload,Thisisatestupload,"[1, 1, 1, 1]",minimize
-Sample2_0.5_circumferential.csv,Vasculature,0.1089,12.2753,0.1089,12.2753,0.1555,Thisisatestupload,Thisisatestupload,"[1, 1, 1, 1]",minimize
-Sample1_0.5_circumferential.csv,Vasculature,0.0914,12.8421,0.0914,12.8421,0.3518,Thisisatestupload,Thisisatestupload,"[1, 1, 1, 1]",minimize
-Sample3_0.2_radial.csv,Vasculature,0.0151,6.1783,0.0151,6.1783,0.0277,Thisisatestupload,Thisisatestupload,"[1, 1, 1, 1]",minimize
-Sample2_0.2_radial.csv,Vasculature,0.0118,7.1943,0.0118,7.1943,0.0654,Thisisatestupload,Thisisatestupload,"[1, 1, 1, 1]",minimize
-Sample1_0.2_radial.csv,Vasculature,0.0278,5.3609,0.0278,5.3609,0.0566,Thisisatestupload,Thisisatestupload,"[1, 1, 1, 1]",minimize
-Sample3_0.2_circumferential.csv,Vasculature,0.0882,10.7257,0.0882,10.7257,0.2847,Thisisatestupload,Thisisatestupload,"[1, 1, 1, 1]",minimize
-Sample2_0.2_circumferential.csv,Vasculature,0.101,11.6009,0.101,11.6009,0.2442,Thisisatestupload,Thisisatestupload,"[1, 1, 1, 1]",minimize
-Sample1_0.2_circumferential.csv,Vasculature,0.1622,9.2841,0.1622,9.2841,0.1381,Thisisatestupload,Thisisatestupload,"[1, 1, 1, 1]",minimize
