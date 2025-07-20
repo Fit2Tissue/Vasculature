@@ -2,3 +2,4 @@ Filename,TissueCategory,ComputedShearModulus,Mu1,Alpha1,Mu2,Alpha2,RMSE,Publicat
 Sample3_0.5_radial.csv,Vasculature,0.0462,0.0066,7.0408,0.0066,7.0408,0.0187,Thisisatest2,Thisisatest2,"[1, 1, 1, 1]",minimize
 Sample2_0.5_radial.csv,Vasculature,0.0652,0.0098,6.6614,0.0098,6.6614,0.0133,Thisisatest2,Thisisatest2,"[1, 1, 1, 1]",minimize
 Sample1_0.5_radial.csv,Vasculature,0.1316,0.0281,4.6816,0.0281,4.6816,0.0646,Thisisatest2,Thisisatest2,"[1, 1, 1, 1]",minimize
+Sample3_0.5_circumferential.csv,Vasculature,1.1736,0.091,12.9008,0.091,12.9008,0.316,Thisisatest2,Thisisatest2,"[1, 1, 1, 1]",minimize
