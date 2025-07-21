@@ -47,3 +47,4 @@ Sample1_0.2_radial.csv,Cardiac,1.0261,0.5628,1.823,0.034,Thisisatestupload2,This
 Sample3_0.2_circumferential.csv,Cardiac,240.1669,8.513,28.2116,0.1076,Thisisatestupload2,Thisisatestupload2,"[1, 1]",minimize
 Sample2_0.2_circumferential.csv,Cardiac,369.8166,10.7153,34.513,0.0863,Thisisatestupload2,Thisisatestupload2,"[1, 1]",minimize
 Sample1_0.2_circumferential.csv,Cardiac,186.4148,8.0682,23.1048,0.07,Thisisatestupload2,Thisisatestupload2,"[1, 1]",minimize
+bovaqlatmen2_including_updated.csv,Musculoskeletal,0.1897,5.0692,0.0374,4.6724,Thisisatestupload3,Thisisatestupload3,"[1, 1]",minimize
