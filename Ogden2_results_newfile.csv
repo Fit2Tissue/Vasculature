@@ -45,3 +45,4 @@ Sample3_0.2_radial.csv,Cardiac,0.0935,0.0151,6.1783,0.0151,6.1783,0.0277,Thisisa
 Sample2_0.2_radial.csv,Cardiac,0.0847,0.0118,7.1943,0.0118,7.1943,0.0654,Thisisatestupload2,Thisisatestupload2,"[1, 1, 1, 1]",minimize
 Sample1_0.2_radial.csv,Cardiac,0.1489,0.0278,5.3609,0.0278,5.3609,0.0566,Thisisatestupload2,Thisisatestupload2,"[1, 1, 1, 1]",minimize
 Sample3_0.2_circumferential.csv,Cardiac,0.946,0.0882,10.7257,0.0882,10.7257,0.2847,Thisisatestupload2,Thisisatestupload2,"[1, 1, 1, 1]",minimize
+Sample2_0.2_circumferential.csv,Cardiac,1.1716,0.101,11.6009,0.101,11.6009,0.2442,Thisisatestupload2,Thisisatestupload2,"[1, 1, 1, 1]",minimize
