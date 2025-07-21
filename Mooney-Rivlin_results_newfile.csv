@@ -1,1 +1,2 @@
 Filename,TissueCategory,ComputedShearModulus,C01,C10,RMSE,PublicationLink,ExperimentalDetails,Numberofdatapoints,InitialGuesses,Optimization,Algorithm
+Subject202_Sample8_AgedVentral_Equibiaxial.csv,epithelial and connective tissue,0,0.0012,0,0.003,Thisisatesupload1,Thisisatesupload1,"[1, 1]",minimize
