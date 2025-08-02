@@ -1,5 +1,0 @@
-note,note2,category,model_results,rmse,filename
-Thisisathirdtest,Thisisathirdtest,Vasculature,,0.0118,7.1943,0.0118,7.1943,0.0654,Sample2_0.2_radial.csv
-Thisisathirdtest,Thisisathirdtest,Vasculature,,0.0278,5.3609,0.0278,5.3609,0.0566,Sample1_0.2_radial.csv
-Thisisathirdtest,Thisisathirdtest,Vasculature,,0.0882,10.7257,0.0882,10.7257,0.2847,Sample3_0.2_circumferential.csv
-Thisisathirdtest,Thisisathirdtest,Vasculature,,0.101,11.6009,0.101,11.6009,0.2442,Sample2_0.2_circumferential.csv
